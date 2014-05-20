@@ -1,5 +1,5 @@
 include README.txt
-recursive-include xstatic/pkg/jquery *
+recursive-include xstatic/pkg/d3 *
 
 global-exclude *.pyc
 global-exclude *.pyo
